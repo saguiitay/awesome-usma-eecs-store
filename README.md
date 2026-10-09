@@ -9,7 +9,8 @@ This is an awesome list of awesome things curated by the USMA EECS community. [E
 
 ## Python
 
-- [uv](https://docs.astral.sh/uv/) - python package and project manager ([guide](uv.md))
+- [uv](https://docs.astral.sh/uv/) - Python package and project manager ([guide](uv.md))
+- [marimo](marimo.md) - a reactive Python notebook for computational thinking
 
 ## Agentic Software Engineering
 
