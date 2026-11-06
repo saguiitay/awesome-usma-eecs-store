@@ -6,6 +6,7 @@ This is an awesome list of awesome things curated by the USMA EECS community. [E
 
 - [ClassTime](https://classtime.bhatia.dev/) - a helpful classroom timer
 - [CircuitPython Code Editor](https://code.circuitpython.org/) - ide to work with microcontrollers like [Circuit Playground Bluefruit](https://www.adafruit.com/product/4333)
+- [Physics Explorer](https://apps.microsoft.com/detail/9nclldcrlpfs?hl=en-US) - paid offline windows physics-learning app with guided waves and optics experiments; educational models, not a precision engineering instrument
 
 ## Python
 
@@ -78,6 +79,7 @@ This is an awesome list of awesome things curated by the USMA EECS community. [E
 
 ## Computing and Technology
 
+- [Data Format Workbench](https://apps.microsoft.com/detail/9nxzwn74wqn5?hl=en-US) - paid offline windows tool for inspecting json/csv, extracting data with jsonpath and inferring json schema from samples
 - [Hackaday](https://hackaday.com/) - community site for hardware hacks and DIY projects
 - [DevDocs.io](https://devdocs.io/) - fast, offline-capable documentation browser for apis
 - [Visual Studio Code](https://code.visualstudio.com/) - popular extensible code editor for developers
