@@ -4,6 +4,7 @@ This is an awesome list of awesome things curated by the USMA EECS community. [E
 
 ## Useful Classroom Tools
 
+- [Calculation Hub Ohm's Law Calculator](https://calculation-hub.com/electricity/ohms-law) - calculate voltage, current, resistance, or power for simple ohmic circuit exercises
 - [ClassTime](https://classtime.bhatia.dev/) - a helpful classroom timer
 - [CircuitPython Code Editor](https://code.circuitpython.org/) - ide to work with microcontrollers like [Circuit Playground Bluefruit](https://www.adafruit.com/product/4333)
 
